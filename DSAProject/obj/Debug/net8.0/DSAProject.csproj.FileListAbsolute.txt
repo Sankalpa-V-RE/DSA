@@ -1,0 +1,28 @@
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\bin\Debug\net8.0\DSAProject.exe
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\bin\Debug\net8.0\DSAProject.deps.json
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\bin\Debug\net8.0\DSAProject.runtimeconfig.json
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\bin\Debug\net8.0\DSAProject.dll
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\bin\Debug\net8.0\DSAProject.pdb
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\DSAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\DSAProject.AssemblyInfoInputs.cache
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\DSAProject.AssemblyInfo.cs
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\DSAProject.csproj.CoreCompileInputs.cache
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\DSAProject.dll
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\refint\DSAProject.dll
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\DSAProject.pdb
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\DSAProject.genruntimeconfig.cache
+C:\Users\Vihanga\Documents\DSA\DSAProject\DSAProject\obj\Debug\net8.0\ref\DSAProject.dll
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\bin\Debug\net8.0\DSAProject.exe
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\bin\Debug\net8.0\DSAProject.deps.json
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\bin\Debug\net8.0\DSAProject.runtimeconfig.json
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\bin\Debug\net8.0\DSAProject.dll
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\bin\Debug\net8.0\DSAProject.pdb
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\DSAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\DSAProject.AssemblyInfoInputs.cache
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\DSAProject.AssemblyInfo.cs
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\DSAProject.csproj.CoreCompileInputs.cache
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\DSAProject.dll
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\refint\DSAProject.dll
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\DSAProject.pdb
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\DSAProject.genruntimeconfig.cache
+C:\Users\Vihanga\Documents\New folder (5)\DSA\DSAProject\obj\Debug\net8.0\ref\DSAProject.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vihanga\\Documents\\New folder (5)\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D25574-8C33-4A79-84AC-1115C9C355D6}|DSAProject\\DSAProject.csproj|c:\\users\\vihanga\\documents\\new folder (5)\\dsa\\dsaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D25574-8C33-4A79-84AC-1115C9C355D6}|DSAProject\\DSAProject.csproj|solutionrelative:dsaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D25574-8C33-4A79-84AC-1115C9C355D6}|DSAProject\\DSAProject.csproj|c:\\users\\vihanga\\documents\\new folder (5)\\dsa\\dsaproject\\datastructures\\linkedlist\\patientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D25574-8C33-4A79-84AC-1115C9C355D6}|DSAProject\\DSAProject.csproj|solutionrelative:dsaproject\\datastructures\\linkedlist\\patientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D25574-8C33-4A79-84AC-1115C9C355D6}|DSAProject\\DSAProject.csproj|c:\\users\\vihanga\\documents\\new folder (5)\\dsa\\dsaproject\\datastructures\\queue\\appointmentqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D25574-8C33-4A79-84AC-1115C9C355D6}|DSAProject\\DSAProject.csproj|solutionrelative:dsaproject\\datastructures\\queue\\appointmentqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Vihanga\\Documents\\New folder (5)\\DSA\\DSAProject\\DataStructures\\Queue\\AppointmentQueue.cs",
+              "RelativeDocumentMoniker": "DSAProject\\DataStructures\\Queue\\AppointmentQueue.cs",
+              "ToolTip": "C:\\Users\\Vihanga\\Documents\\New folder (5)\\DSA\\DSAProject\\DataStructures\\Queue\\AppointmentQueue.cs",
+              "RelativeToolTip": "DSAProject\\DataStructures\\Queue\\AppointmentQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:18:34.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsList.cs",
+              "DocumentMoniker": "C:\\Users\\Vihanga\\Documents\\New folder (5)\\DSA\\DSAProject\\DataStructures\\LinkedList\\PatientsList.cs",
+              "RelativeDocumentMoniker": "DSAProject\\DataStructures\\LinkedList\\PatientsList.cs",
+              "ToolTip": "C:\\Users\\Vihanga\\Documents\\New folder (5)\\DSA\\DSAProject\\DataStructures\\LinkedList\\PatientsList.cs",
+              "RelativeToolTip": "DSAProject\\DataStructures\\LinkedList\\PatientsList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:18:12.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vihanga\\Documents\\New folder (5)\\DSA\\DSAProject\\Program.cs",
+              "RelativeDocumentMoniker": "DSAProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Vihanga\\Documents\\New folder (5)\\DSA\\DSAProject\\Program.cs",
+              "RelativeToolTip": "DSAProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:17:10.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
